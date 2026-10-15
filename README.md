@@ -223,21 +223,16 @@ This project provides practical experience in:
 
 ## 🖥️ Application Screenshots
 
-### 1. Dashboard
+1. Dashboard
+<img width="1400" height="1209" alt="ss" src="https://github.com/user-attachments/assets/51560e14-3fc5-45cd-9ec5-fc3393964c04" />
+2. Presentation Upload
+<img width="3840" height="2494" alt="ss2" src="https://github.com/user-attachments/assets/70bd95f9-2f79-4a42-ba30-cf60e5246ee6" />
+3. AI Analysis Results
+<img width="800" height="533" alt="ss3" src="https://github.com/user-attachments/assets/8b75e0e8-79e5-44bb-96eb-834d78142031" />
 
-<img width="1906" height="908" alt="AI PPT Analyzer Dashboard" src="C:\Users\DELL\Downloads\ss.jpg" />
-
-### 2. Presentation Upload
-
-<img width="1906" height="908" alt="AI PPT Analyzer Upload Page" src="C:\Users\DELL\Downloads\ss2.jpg"
- />
-
-### 3. AI Analysis Results
-
-<img width="1906" height="908" alt="AI PPT Analyzer Analysis Results" src="C:\Users\DELL\Downloads\ss3.jpg"
- />
 
 ## 👩‍💻 Author
+
 
 **Shanmugapriya S**
 
