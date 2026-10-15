@@ -221,6 +221,22 @@ This project provides practical experience in:
 - Handling file uploads, API responses, and error scenarios.
 - Designing AI-assisted content analysis workflows.
 
+## 🖥️ Application Screenshots
+
+### 1. Dashboard
+
+<img width="1906" height="908" alt="AI PPT Analyzer Dashboard" src="C:\Users\DELL\Downloads\ss.jpg" />
+
+### 2. Presentation Upload
+
+<img width="1906" height="908" alt="AI PPT Analyzer Upload Page" src="C:\Users\DELL\Downloads\ss2.jpg"
+ />
+
+### 3. AI Analysis Results
+
+<img width="1906" height="908" alt="AI PPT Analyzer Analysis Results" src="C:\Users\DELL\Downloads\ss3.jpg"
+ />
+
 ## 👩‍💻 Author
 
 **Shanmugapriya S**
